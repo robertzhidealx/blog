@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jiaxuan Zhang",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^11.0.1",
+    "nextra": "^0.4.5",
+    "nextra-theme-blog": "^0.1.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {}
+}
