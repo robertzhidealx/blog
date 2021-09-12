@@ -1,3 +1,3 @@
 # A Blog by Jiaxuan Zhang
 
-Gladly powered by Next.js
+Proudly powered by Next.js
