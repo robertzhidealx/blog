@@ -12,6 +12,7 @@
   "author": "Jiaxuan Zhang",
   "license": "MIT",
   "dependencies": {
+    "@heroicons/react": "^2.0.13",
     "next": "^13.0.2",
     "nextra": "^0.4.5",
     "nextra-theme-blog": "^0.1.6",
